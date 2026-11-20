@@ -4,9 +4,9 @@ Two-player Tron game made with two Arduinos. Each board drives its own 8×8 LED 
 the two halves communicate to act as one 16×8 arena allowing the bikes to cross the seam and
 the borders to wrap on all sides of the arena.
 
-![Two boards playing as one arena](docs/demo.gif)
+![Two boards playing as one arena](assets/demo.gif)
 
-![The two boards](docs/boards.jpg)
+![The two boards](assets/boards.jpg)
 
 Built for ENGR 40M at Stanford.
 
@@ -83,7 +83,7 @@ rows and resistors along the columns
 The matrix is built by hand on the course PCB. LEDs mount on the
 reverse, so the side you solder is the side you never see:
 
-![Solder side of the matrix](docs/pcb.jpg)
+![Solder side of the matrix](assets/pcb.jpg)
 
 ## Flashing
 
